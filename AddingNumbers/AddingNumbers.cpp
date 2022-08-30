@@ -12,6 +12,7 @@ int main()
 	int b;
 	cin >> a >> b;
 	cout << a + b;
+	return 0;
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
